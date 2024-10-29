@@ -5,9 +5,7 @@
 <h1> 安装</h1>
 从<a href="https://github.com/wuliya336/random-api-go/releases">发布页面</a>下载对应平台的压缩包并上传至服务器，解压后运行即可。
 <h1> 使用</h1>
-
 <h2> Windows</h2>
-
 <h3>方式一</h3>
 切换到解压后的目录，输入以下命令：
 
