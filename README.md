@@ -34,6 +34,7 @@ alias: 随机图片的别名<br>
 这个三选一<br>
 type: 随机图片的类型，可选值有：img|json ,默认为img<br>
 num: 随机图片数量，默认为1,仅在`type=json`时有效<br>
+imgkey: 获取指定图片的key，就是图片文件名
 <h1>示例</h1>
 
 ```
