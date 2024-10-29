@@ -1,6 +1,5 @@
 <center style="font-size: 50px"><b>random-api-go</b></center>
 <h1> 介绍</h1>
-
 <img src="https://count.moeyy.cn/get/@:random-api-go" alt=":random-api-go" />
 <p>random-api-go 是一个基于 Golang 的随机图片API。</p>
 <h1> 安装</h1>
