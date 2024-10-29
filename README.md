@@ -2,7 +2,7 @@
 <h1> 介绍</h1>
 
 <p align="center">
-  <img src="https://count.moeyy.cn/get/@:random-api-go alt=":random-api-go" />
+  <img src="https://count.moeyy.cn/get/@:random-api-go" alt=":random-api-go" />
 <p>random-api-go 是一个基于 Golang 的随机图片API。</p>
 <h1> 安装</h1>
 从<a href="https://github.com/wuliya336/random-api-go/releases">发布页面</a>下载对应平台的压缩包并上传至服务器，解压后运行即可。
